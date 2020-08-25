@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**sjoeboo/sjoeboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Oh hello. 
+I'm Matt. I like to say I'm an `older-end millenial dad/husband`. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Where I am: North Central MA in the woods (kinda)
+* What I do: Senior Engineer (SRE) @ [Spotify](https://github.com/spotify), focus on Observability, mainly [Heroic](https://github.com/spotify/heroic).
+* Where I've been: 
+  * Wentworth Insitute of Tech. [2002-2006] (Computer Network InfoSys)
+  * Harvard [2006-2014] (IT, SysAdmin, Reseach Computing/HPC, DevOps)
+  * Broad Institute [2014] (HPC/DevOps)
+  * Harvard Med [2015] (HPC/DevOps)
+  * Spotify [2016-present] (SRE)
+* What I'm into:
+  * Post Rock
+  * Being a dad
+  * Being a husband
+  * Honeslty I like my job and the problems we face/solve. Fixing/building things @ scale == fun.
+  
