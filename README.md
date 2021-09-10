@@ -3,7 +3,7 @@
 ### Oh hello. 
 I'm Matt. I like to say I'm an `older-end millenial dad/husband`. 
 
-* Where I am: North Central MA in the woods (kinda)
+* Where I am: East/Central MA
 * What I do: Senior Engineer (SRE) @ [Spotify](https://github.com/spotify), focus on Observability, mainly [Heroic](https://github.com/spotify/heroic).
 * Where I've been: 
   * Wentworth Insitute of Tech. [2002-2006] (Computer Network InfoSys)
