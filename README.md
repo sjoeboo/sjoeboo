@@ -17,3 +17,4 @@ I'm Matt. I like to say I'm an `older-end millenial dad/husband`.
   * Being a husband
   * Honeslty I like my job and the problems we face/solve. Fixing/building things @ scale == fun.
   
+<a rel="me" href="https://hachyderm.io/@sjoeboo">Mastodon</a>
